@@ -6,7 +6,9 @@ This repository tracks my journey through the foundational concepts of Data Scie
 
 ## My Key Learning Objectives
 **Mathematical Intuition**: Strengthening my understanding of Statistics, Probability, and Linear Algebra.
+
 **Algorithmic Thinking**: Mastering the logic behind Gradient Descent, Regression models, and Neural Networks.
+
 **Data Ethics**:Understanding how outliers and bias influence results.
 
 ## My Roadmap
