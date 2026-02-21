@@ -11,7 +11,7 @@ How easy is it to trick someone with just a few visual tweaks?
 # My Projects
 * [**01_truncated_axis.ipynb**](./01_truncated_axis.ipynb) : This demonstrates how manipulating the Y-axis range can exaggerate small trends.
 
-* [**02_bin_manipulation.ipynb**](./02_bin_manipulation.ipynb) : This demonstrates how changing the width of bins in histograms can make a messy and problematic dataset looks smooth and normal.
+* [**02_bin_manipulation.ipynb**](./02_bin_manipulation.ipynb) : This demonstrates how changing the width of bins in histograms can affect how we view data.
 
 
 Data Source: https://www.kaggle.com/datasets/crawford/80-cereals
