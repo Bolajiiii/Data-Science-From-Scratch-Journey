@@ -14,4 +14,4 @@ This repository tracks my journey through the foundational concepts of Data Scie
 ## My Roadmap
 *The first two chapters focus on introductory concepts. While they are essential for building intuition, they do not naturally translate into standalone portfolio projects. Therefore, I will be starting from Chapter 3.*
 
-**Chapter 3** - When Data Visualization Lies (In progress)
+[**Chapter 3**](./chapter_3) - When Data Visualization Lies
