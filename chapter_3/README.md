@@ -13,5 +13,7 @@ How easy is it to trick someone with just a few visual tweaks?
 
 * [**02_bin_manipulation.ipynb**](./02_bin_manipulation.ipynb) : This demonstrates how changing the width of bins in histograms can affect how we view data.
 
+* [**03_correlation_illusion.ipynb**](./03_correlation_illusion.ipynb):
+This demonstrates how cherry picking specific data subsets can hide strong negative correlations.
 
 Data Source: https://www.kaggle.com/datasets/crawford/80-cereals
