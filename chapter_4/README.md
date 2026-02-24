@@ -10,5 +10,5 @@ What changes when we represent data as points in space instead of isolated value
 _To be added..._
 
 ## My Projects 
-_To be added..._
+* [**01_vector_operations.ipynb**](./01_vector_operations.ipynb)
 
