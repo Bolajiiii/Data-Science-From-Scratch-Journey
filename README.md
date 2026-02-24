@@ -9,11 +9,11 @@ This repository tracks my journey through the foundational concepts of Data Scie
 
 **Algorithmic Thinking**: Mastering the logic behind Gradient Descent, Regression models, and Neural Networks.
 
-**Data Ethics**:Understanding how outliers and bias influence results.
+**Data Ethics**: Understanding how outliers and bias influence results.
 
 ## My Roadmap
 *The first two chapters focus on introductory concepts. While they are essential for building intuition, they do not naturally translate into standalone portfolio projects. Therefore, I will be starting from Chapter 3.*
 
 [**Chapter 3**](./chapter_3) - When Data Visualization Lies
 
-[**Chapter 4**](./chapter_4) - The Geometry of Data (In progress)
+[**Chapter 4**](./chapter_4) - The Geometry of Data (_In progress_)
