@@ -10,5 +10,6 @@ What changes when we represent data as points in space instead of isolated value
 _To be added..._
 
 ## My Projects 
-* [**01_vector_operations.ipynb**](./01_vector_operations.ipynb)
+* [**01_vector_operations.ipynb**](./01_vector_operations.ipynb): This project shows (_to be continued..._)
 
+* [**02_matrix_operations.ipynb**](./02_matrix_operations.ipynb): 
