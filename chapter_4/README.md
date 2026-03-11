@@ -7,7 +7,8 @@ Through creating vector operations, I explore the role of distance, direction, a
 How can linear algebra concepts like vectors and matrices help us analyze relationships within real-world datasets?
 
 ## Data Source 
-This project used a movie data set from Kaggle consisting of 3886 films scraped from Hydra Movies full collection of movies.
+This project used a movie data set from Kaggle consisting of features like runtime, rating, and year of release.
+
 https://www.kaggle.com/datasets/kayscrapes/movie-dataset
 
 ## My Projects 
@@ -17,4 +18,15 @@ https://www.kaggle.com/datasets/kayscrapes/movie-dataset
 
 
 ## What I Learnt
-* Vectors as _Nutritional Directions_: (_to be added..._)
+Through these projects, I explored how linear algebra provides a geometric way to represent and analyze data. By treating datasets as vectors and matrices, I learned how mathematical operations can reveal relationships between variables.
+My key takeaways from this chapter include:
+
+* How datasets can be represented as vectors and matrices.
+
+* How cosine similarity measures similarity between variables.
+
+* How vector subtraction can be used to compare data points and measure differences between observations.
+
+* How matrices can represent datasets where rows are observations and columns are features.
+
+* How matrix operations such as row statistics, column statistics, and transposition can help to uncover patterns and structure in a dataset.
