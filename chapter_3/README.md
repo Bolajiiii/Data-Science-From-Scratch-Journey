@@ -9,7 +9,7 @@ I run through examples where tiny tweaks in visualization (like changing axis sc
 How much can perception change based on visualization design alone?
 
 ## Data Source
-This project uses a public cereal nutrition dataset from Kaggle containing sugar, fiber, and consumer ratings
+This project used a public cereal nutrition dataset from Kaggle containing sugar, fiber, and consumer ratings
  https://www.kaggle.com/datasets/crawford/80-cereals
 
 ## My Projects
@@ -20,8 +20,8 @@ This project uses a public cereal nutrition dataset from Kaggle containing sugar
 * [**03_correlation_illusion.ipynb**](./03_correlation_illusion.ipynb):
 This demonstrates how cherry picking specific data subsets can hide strong negative correlations.![scatter plots](./images/scatter-plots.png)
 
-## What I Learned
-Through this chapter, I realized that data visualization is as much about perception as it is about numbers. Even with the same dataset, subtle design choices can dramatically change how a viewer interprets the information. Specifically, I learned that:
+## What I Learnt
+Through this chapter, I realized that data visualization is as much about perception as it is about numbers. Even with the same dataset, subtle design choices can change how a viewer interprets the information. Specifically, I learned that:
 * Axis scaling matters: Truncating or stretching axes can exaggerate or minimize trends, which can mislead viewers if not done carefully.
 
 * Histogram bin size affects patterns: Changing the number of bins can make data appear more concentrated or more spread out than it really is.
