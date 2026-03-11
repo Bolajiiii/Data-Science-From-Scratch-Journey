@@ -16,4 +16,6 @@ This repository tracks my journey through the foundational concepts of Data Scie
 
 [**Chapter 3**](./chapter_3) - When Data Visualization Lies
 
-[**Chapter 4**](./chapter_4) - The Geometry of Data (_In progress_)
+[**Chapter 4**](./chapter_4) - The Geometry of Data 
+
+[**Chapter 5**](./chapter_5) - Understanding Data with Statistics (_in progress..._)
