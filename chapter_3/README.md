@@ -32,4 +32,4 @@ Through this chapter, I realized that data visualization is as much about percep
 
 * Transparency and context are essential: Always explain the choices I make in visualization and provide enough context so others can interpret the data accurately.
 
-Overall, this chapter reinforced that visuals can lie, intentionally or not, and part of being a good data scientist is learning to spot these tricks and present data ethically.
+Overall, this chapter reinforced that visuals can lie, intentionally or not, and part of being a good data scientist is learning to spot these tricks and present data ethically. Like Mark Twain said, there are lies, damned lies and statistics.
