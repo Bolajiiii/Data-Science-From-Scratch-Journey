@@ -6,8 +6,12 @@
 
 
 ## Data Source
+This project used a dataset on from Kaggle containing factors like study habits, sleep patterns, and learning environments.
+https://www.kaggle.com/datasets/danishbaariq/analyze-effective-exam-score-to-sleep-quality-2026
 
 
 ## My Projects
+* [**01_describing_data.ipynb**](./01_describing_data.ipynb): (_to be added_)
+
 
 ## What I Learnt
