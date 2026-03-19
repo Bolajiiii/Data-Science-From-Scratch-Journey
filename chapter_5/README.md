@@ -12,6 +12,7 @@ https://www.kaggle.com/datasets/danishbaariq/analyze-effective-exam-score-to-sle
 
 ## My Projects
 * [**01_describing_data.ipynb**](./01_describing_data.ipynb): (_to be added_)
+* [**02_sleep_and_exam_performance.ipynb**](./02_sleep_and_exam_performance.ipynb): (_to be added_)
 
 
 ## What I Learnt
