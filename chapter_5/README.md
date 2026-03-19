@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/danishbaariq/analyze-effective-exam-score-to-sle
 
 
 ## My Projects
-* [**01_describing_data.ipynb**](./01_describing_data.ipynb): (_to be added_)
+* [**01_describing_data.ipynb**](./01_describing_data.ipynb): This notebook focuses on using descriptive statistics to examine the distribution, central tendencies, and variability of the exam performance dataset.
 * [**02_sleep_and_exam_performance.ipynb**](./02_sleep_and_exam_performance.ipynb): (_to be added_)
 
 
