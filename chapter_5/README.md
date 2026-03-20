@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/danishbaariq/analyze-effective-exam-score-to-sle
 ![Describing columns](./images/description_plots.png)
 
 
-* [**02_sleep_and_exam_performance.ipynb**](./02_sleep_and_exam_performance.ipynb): This notebook focuses on the relationship between the columns in the dataset, and I identify which habits (studying more, sleeping longer, sleeping better) are the strongest predictors of success. 
+* [**02_relationships_in_data.ipynb**](./02_relationships_in_data.ipynb): This notebook focuses on the relationship between the columns in the dataset, and I identify which habits (studying more, sleeping longer, sleeping better) are the strongest predictors of success. 
 ![Relationships between columns](./images/multiple_plots.png)
 
 
