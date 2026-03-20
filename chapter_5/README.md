@@ -12,8 +12,11 @@ https://www.kaggle.com/datasets/danishbaariq/analyze-effective-exam-score-to-sle
 
 ## My Projects
 * [**01_describing_data.ipynb**](./01_describing_data.ipynb): This notebook focuses on using descriptive statistics to examine the distribution, central tendencies, and variability of the exam performance dataset.
-* [**02_sleep_and_exam_performance.ipynb**](./02_sleep_and_exam_performance.ipynb): This notebook focuses on the relationship between the columns in the dataset. 
-![alt text](./images/multiple_plots.png)
+![Describing columns](./images/description_plots.png)
+
+
+* [**02_sleep_and_exam_performance.ipynb**](./02_sleep_and_exam_performance.ipynb): This notebook focuses on the relationship between the columns in the dataset, and I identify which habits (studying more, sleeping longer, sleeping better) are the strongest predictors of success. 
+![Relationships between columns](./images/multiple_plots.png)
 
 
 ## What I Learnt
