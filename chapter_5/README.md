@@ -7,6 +7,7 @@
 
 ## Data Source
 This project used a dataset on from Kaggle containing factors like study habits, sleep patterns, and learning environments.
+
 https://www.kaggle.com/datasets/danishbaariq/analyze-effective-exam-score-to-sleep-quality-2026
 
 
@@ -18,5 +19,7 @@ https://www.kaggle.com/datasets/danishbaariq/analyze-effective-exam-score-to-sle
 * [**02_relationships_in_data.ipynb**](./02_relationships_in_data.ipynb): This notebook focuses on the relationship between the columns in the dataset, and I identify which habits (studying more, sleeping longer, sleeping better) are the strongest predictors of success. 
 ![Relationships between columns](./images/multiple_plots.png)
 
+
+* [**03_questioning_the_data.ipynb**](./03_questioning_the_data.ipynb): (_to be added_)
 
 ## What I Learnt
