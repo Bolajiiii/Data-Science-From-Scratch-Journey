@@ -24,8 +24,8 @@ https://www.kaggle.com/datasets/danishbaariq/analyze-effective-exam-score-to-sle
 ![Anomalies in columns](./images/anomalies_plot.png)
 
 ## What I Learnt
-* I learnt that measures like mean, median, and standad deviation can are helpful in highlighting overall trends in data.
+* I learnt that using measures like mean, median, and standard deviation is helpful for understanding overall trends in data.
 * I learnt that data is rarely perfect. Even in a small dataset, there can be anomalies. 
 * I reinforced the knowledge that correlation does not imply causation.
-* I learnt that questioning data is as important as describing it. Highlighting unusual patterns pushed me to think critically about what might be happening beyond the surface.
+* I learnt that questioning data is as important as describing it. Highlighting unusual patterns helped me think critically about what might be happening beyond the surface.
 * I also finally understand how independent and dependent variables are assigned to axes, something I was surprised to realize I hadn’t fully grasped before.
