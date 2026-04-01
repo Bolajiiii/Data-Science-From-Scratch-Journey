@@ -18,4 +18,6 @@ This repository tracks my journey through the foundational concepts of Data Scie
 
 [**Chapter 4**](./chapter_4) - The Geometry of Data 
 
-[**Chapter 5**](./chapter_5) - Understanding Data with Statistics (_in progress..._)
+[**Chapter 5**](./chapter_5) - Understanding Data with Statistics 
+
+[**Chapter 6**](./chapter_6) - The Logic of Uncertainty (_in progress..._)
