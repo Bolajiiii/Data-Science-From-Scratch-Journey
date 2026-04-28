@@ -10,7 +10,7 @@ _to be added_
 _to be added_
 
 ## My Projects
-* [**01_the_logic_of_evidence.ipynb**](./01_the_logic_of_evidence.ipynb): (_to be added..._)
+* [**01_the_logic_of_evidence.ipynb**](./01_the_logic_of_evidence.ipynb): In this notebook, I explore how probability changes when we condition on new information, and how Bayes’ Theorem formalizes this process of updating beliefs.
 
 ## What I Learnt
 _to be added_
