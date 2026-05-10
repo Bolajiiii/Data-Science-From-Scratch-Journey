@@ -4,7 +4,7 @@ In this chapter, I explore the ways in which data can be interpreted geometrical
 Through creating vector operations, I explore the role of distance, direction, and magnitude in how we measure relationships in data.
 
 ## Core Question
-How can linear algebra concepts like vectors and matrices help us analyze relationships within real-world datasets?
+How can linear algebra help us analyze relationships within real world datasets?
 
 ## Data Source 
 This project used a movie data set from Kaggle consisting of features like runtime, rating, and year of release.
